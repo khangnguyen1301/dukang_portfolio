@@ -5,9 +5,73 @@ export interface Language {
 }
 
 export const languages: Record<string, Language> = {
-  angular: {
-    name: "Angular",
-    iconName: "angular",
+  react: {
+    name: "React",
+    iconName: "react",
+  },
+  reactQuery: {
+    name: "React Query",
+    iconName: "react_query",
+  },
+  graphql: {
+    name: "GraphQL",
+    iconName: "graphql",
+  },
+  nest: {
+    name: "NestJS",
+    iconName: "nestjs",
+  },
+  material: {
+    name: "Material UI",
+    iconName: "materialui",
+  },
+  next: {
+    name: "Next.js",
+    iconName: "nextjs_icon_dark",
+  },
+  postgre: {
+    name: "PostgreSQL",
+    iconName: "postgresql",
+  },
+  prisma: {
+    name: "Prisma",
+    iconName: "prisma_dark",
+  },
+  docker: {
+    name: "Docker",
+    iconName: "docker",
+  },
+  aws: {
+    name: "AWS",
+    iconName: "aws",
+  },
+  antDesign: {
+    name: "Ant Design",
+    iconName: "ant-design",
+  },
+  shadcn: {
+    name: "ShadCN",
+    iconName: "shadcn-ui",
+  },
+  swagger: {
+    name: "Swagger",
+    iconName: "swagger",
+  },
+  redux: {
+    name: "Redux",
+    iconName: "redux",
+  },
+  redis: {
+    name: "Redis",
+    iconName: "redis",
+  },
+  radixUi: {
+    name: "Radix UI",
+    iconName: "radix-ui",
+  },
+  rabbitMQ: {
+    name: "RabbitMQ",
+    iconName: "rabbitmq",
   },
   astro: {
     name: "Astro",
@@ -38,10 +102,6 @@ export const languages: Record<string, Language> = {
     className: "bg-[#f6ece1]!",
     iconName: "mysql",
   },
-  wordpress: {
-    name: "Wordpress",
-    iconName: "wordpress",
-  },
   node: {
     name: "Node.js",
     iconName: "node",
@@ -61,10 +121,6 @@ export const languages: Record<string, Language> = {
   markdown: {
     name: "Markdown",
     iconName: "markdown",
-  },
-  php: {
-    name: "PHP",
-    iconName: "php",
   },
   sass: {
     name: "Sass",
@@ -106,12 +162,8 @@ export const languages: Record<string, Language> = {
     name: "DeepSeek",
     iconName: "deepseek",
   },
-  python: {
-    name: "Python",
-    iconName: "python",
-  },
 };
 
 export const getLanguage = (lang: string): Language => {
   return languages[lang] || languages.html;
-}; 
+};
