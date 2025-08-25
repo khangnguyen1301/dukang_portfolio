@@ -73,9 +73,21 @@ export const languages: Record<string, Language> = {
     name: "RabbitMQ",
     iconName: "rabbitmq",
   },
+  gemini: {
+    name: "Gemini",
+    iconName: "gemini",
+  },
   astro: {
     name: "Astro",
     iconName: "astro",
+  },
+  cloudinary: {
+    name: "Cloudinary",
+    iconName: "cloudinary",
+  },
+  clerk: {
+    name: "Clerk",
+    iconName: "clerk",
   },
   bootstrap: {
     name: "Bootstrap",
