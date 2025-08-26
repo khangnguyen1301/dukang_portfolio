@@ -5,13 +5,12 @@ name: Running CI/CD Portfolio
 
 on:
   push:
-    branches: [ "develop" ]
+    branches: ["develop"]
   pull_request:
-    branches: [ "develop" ]
+    branches: ["develop"]
 
 jobs:
   build:
-
     runs-on: self-hosted
 
     strategy:
@@ -20,10 +19,19 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm ci
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - run: npm ci
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Astro
+        run: npm run build
+      - name: Deploy to /var/www/astro
+        run: |
+          sudo rm -rf /var/www/astro/*
+          sudo cp -r dist/* /var/www/astro/
