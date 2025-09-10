@@ -1,109 +1,169 @@
 ---
 layout: /src/layouts/MarkdownAbout.astro
-title: "Fernando López | My Journey in Technology and Web Development 🚀| EFEELE"
-description: "Web developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
-author: "Fernando Lopez"
+title: "Nguyen Van Duy Khang | Full Stack Developer & Software Engineer 🚀"
+description: "Passionate software engineer specializing in full-stack development with expertise in modern web technologies, database design, and scalable application architecture. Dedicated to creating innovative solutions and continuously learning new technologies. 🚀💻"
+author: "Nguyen Van Duy Khang"
 image:
-  url: "/images/efeeleprofile.webp"
-  alt: "Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+  url: "/images/dukangprofile.jpg"
+  alt: "Photo of Nguyen Van Duy Khang - Software Engineer"
 ---
 
-I started developing my first commercial projects as a web developer in 2017. Although I've been passionate about technology for as long as I can remember. I discovered the internet at age 6, and along with it, I learned to use **Paint** 🎨 and play **Pinball** on a **Windows XP** computer that my cousins had. Years passed, and I discovered there was a cyber café near my house, so accompanied by my older brother, I spent a lot of time there, watching others play **Age of Empires** ⚔️. When I could, I also played on the computers and investigated how those games worked. But above all, I remember that while sitting there, I watched the owner, Alfredo, the good <a href="https://fred.cpp.mx/" target="_blank" rel="noopener noreferrer">Fred</a>, while he programmed and modeled game maps, or at least that's what I remember. That made me want to try doing the same. I found it incredible how so many things happened on his screen that, although I couldn't understand them, looked amazing. Without a doubt, he was my first influence to get into programming.
+I am **Nguyen Van Duy Khang**, a passionate software engineer with a strong foundation in full-stack development and a deep love for creating innovative digital solutions. My journey in technology began during my university years, where I discovered the power of code to transform ideas into reality. Since then, I've been dedicated to mastering the art and science of software development.
 
-When we got our first computer at home, around 2011, I spent all my time there, creating my own texture packs to integrate them into one of the games I played the most: **GTA SA**. For this, I learned to use **GIMP** and later **Photoshop**. I wanted to go further and started creating scenarios for the game, so that's when I learned 3D modeling. By then, I was already 12 years old, and I remember I had the intention of dedicating myself to creating video games 🎮. A couple of years later, knowing that programming is needed to create video games, I researched a bit and created my first website with **HTML 4** and **CSS3**. It was a static page, clearly not responsive, and its design and content were very poor, but I felt very proud seeing my page working online.
+My professional experience spans across multiple domains of software engineering, from crafting responsive web applications to designing robust backend systems. I believe in writing clean, maintainable code and following best practices that ensure scalability and performance. Every project I work on is an opportunity to learn something new and push the boundaries of what's possible with technology.
 
-## My Beginnings in Programming 🖥️
+What drives me most is the problem-solving aspect of programming - the ability to break down complex challenges into manageable solutions and see them come to life through code. I'm particularly drawn to projects that have real-world impact and can make a difference in people's lives.
 
-In 2014, I entered high school and decided to take the Programming Technician career. In the first semester, as an integral project, I knew I wanted to make a video game, so I committed to doing it. I learned to use **Unity**, delved deeper into **Blender**, and a bit into **C#**. It was an arduous process, as no one on my team knew how to program, but with their help, we all learned a bit more and managed to complete the project. We delivered a functional demo of a character in a scenario in our 3D _survival_ type game. It was at that moment that I discovered that making a video game is not easy at all and understood the magnitude of knowledge, time, and dedication needed.
+## Technical Expertise & Skills �
 
-I felt good about having achieved that small project, but gradually I fell more in love with web design and development. So, I started learning more about **HTML**, **CSS**, and **JavaScript**. I spent all my free time watching courses and practicing on fictional sites that I designed.
+### Frontend Development
+I specialize in creating modern, responsive web applications using cutting-edge technologies. My frontend toolkit includes:
 
-## The World of Robotics 🤖
+- **React.js & Next.js** - Building dynamic, server-side rendered applications with optimal performance
+- **TypeScript** - Ensuring type safety and better code maintainability  
+- **Tailwind CSS** - Crafting beautiful, responsive designs with utility-first CSS
+- **Material-UI & Ant Design** - Implementing consistent, professional user interfaces
+- **HTML5 & CSS3** - Semantic markup and modern styling techniques
 
-In high school, a teacher and good friend, **Esteban Ángeles**, recruited me to belong to the school's robotics team, which competed in <a href="https://www.vexrobotics.com.mx/" target="_blank" rel="noopener noreferrer">VEX Robotics</a> tournaments. He saw me while I was designing a "3D spider robot" in **Autodesk Inventor**, so I was able to integrate more friends into the team. One of them was <a href="https://github.com/erikestr" target="_blank" rel="noopener noreferrer">Erik Alejandro Estrada Sauza</a>, someone with the same drive and curiosity as me. I was the robot designer, and he programmed it. Along with the rest of the team, we built it. It was a very fun experience full of learning.
+### Backend Development
+I build robust, scalable backend systems that power modern applications:
 
-In 2015, thanks to teacher Esteban, I was invited to take an **Autodesk Inventor** course for a week in another city, offered directly by **Autodesk**. At that time, the need arose in the team to get a 3D printer to further improve the functioning of our robot, so we started researching and trying to manufacture our own 3D printer. During that process, we discovered **Kickstarter** and ventured to try to publish a 3D printing project.
+- **Node.js & Express.js** - Creating RESTful APIs and server-side applications
+- **NestJS** - Developing enterprise-grade applications with TypeScript
+- **Python** - Data processing, automation, and backend services
+- **RESTful API Design** - Architecting clean, maintainable API endpoints
+- **GraphQL** - Implementing efficient data fetching solutions
 
-## Exploring Crowdfunding 💡
+### Database Management
+I work with both SQL and NoSQL databases to design optimal data storage solutions:
 
-We discovered that in Mexico there was **_Fondeadora_**, a platform similar to Kickstarter. Coincidentally, both platforms were about to merge and, as we had a draft project on Kickstarter, we were invited to the merger event between Fondeadora and Kickstarter. Additionally, we participated in the _<a href="https://www.kickstarter.com/projects/willburgm/100-kickstarter-dreams-the-voice-of-100-creators#react-campaign" target="_blank" rel="noopener noreferrer">Make/100 Kickstarter Dreams - The Voice of 100 Creators</a>_ project, an e-book with a compilation of 100 creators sharing their experience and knowledge gained in their campaigns. There I appeared representing my team as one of the 100 creators.
+- **PostgreSQL** - Complex relational database design and optimization
+- **MySQL** - Traditional relational database management
+- **MongoDB** - Document-based NoSQL database solutions
+- **Redis** - Caching and session management
+- **Prisma & Sequelize** - Modern ORM solutions for database interactions
 
-## My First Steps in TEDx Events 🎤
+### Cloud & DevOps
+I deploy and maintain applications using modern cloud infrastructure:
 
-I was approximately 14 years old when I discovered **TED** talks. I instantly became a fan and, since then, I wanted to attend a TED event, give a talk, or even be part of the organizing team. In 2018, I met a good friend, <a href="https://www.ted.com/profiles/7487162/" target="_blank" rel="noopener noreferrer">Octavio Rojas Xicali</a>, who gave me the opportunity to participate in my first **TEDx** event. I helped with the development of the event's website and with other organizational tasks. It was an incredible experience that consolidated my love for TED and my desire to contribute to spreading ideas.
+- **Docker** - Containerization for consistent deployment environments
+- **AWS Services** - Cloud hosting, storage, and serverless functions
+- **Vercel & Netlify** - Modern deployment platforms for web applications
+- **Git & GitHub** - Version control and collaborative development
+- **CI/CD Pipelines** - Automated testing and deployment workflows
 
-Thanks to the people I met in that TEDx experience, I got some of my first clients, some of whom continue working with me to this day. Since then, I've dedicated myself to web development, while also carrying out small projects and organizing events.
+## Professional Experience & Projects 🚀
 
-## We Organize Events 🚀
+### Full Stack Development
+Throughout my career, I've worked on diverse projects that showcase my ability to handle complete software development lifecycles:
 
-Between 2018 and 2019, I had the fortune to be a sponsor and collaborate in organizing:
+**E-commerce Platforms** - Built scalable online shopping solutions with React.js frontends, Node.js backends, and integrated payment systems. Implemented features like real-time inventory management, user authentication, and order processing.
 
-- **<a href="https://www.ted.com/tedx/events/25335" target="_blank" rel="noopener noreferrer">TEDxPalmitas Transform Your Walls</a>** | 2018
-- **<a href="https://nights.talent-network.org/ediciones-anteriores/#" target="_blank" rel="noopener noreferrer">Talent Nights Hidalgo, Second Edition</a>** | 2018
-- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Startup Weekend Pachuca Social Innovation</a>** | 2018
-- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Techstars Global Startup Weekend Sustainable Revolution Pachuca</a>** | 2019
-- **<a href="https://www.ted.com/tedx/events/34332" target="_blank" rel="noopener noreferrer">TEDxPalmitas Winds of Change</a>** | 2019
+**Content Management Systems** - Developed custom CMS solutions using Next.js and headless architecture, enabling content creators to manage their digital presence efficiently.
 
-## Creating Impact with Technology 🌍
+**API Development** - Designed and implemented RESTful APIs, focusing on performance optimization, security, and proper documentation.
 
-<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/6MlhVoqGWlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+### Database Design & Optimization
+I have extensive experience in designing efficient database schemas and optimizing query performance:
 
-In 2020, with the COVID-19 pandemic, I observed the need in some local medical centers and decided, along with a group of friends including <a href="https://www.linkedin.com/in/mmayradiga/"  target="_blank" rel="noopener noreferrer">Mayra Diaz</a>, to contribute our grain of sand by printing and donating 3D face shields. Little by little, the project grew and more people joined. Thus was born <a href="https://sdgactionawards.org/homemakersmexico/"  target="_blank" rel="noopener noreferrer">Hope Makers México</a>.
+- Designed complex relational database structures for enterprise applications
+- Implemented data migration strategies for system upgrades
+- Optimized database queries reducing response times by up to 70%
+- Built data analytics pipelines for business intelligence
 
-In 2021, together with another great friend, Guillermo Mora, we created <a href="https://devs.tizayocan.com/"  target="_blank" rel="noopener noreferrer">Devs_Tiza</a>, a community for developers, designers, and technology enthusiasts. Our goal is to organize events, workshops, and mentoring to strengthen the local technology ecosystem.
+### Modern Development Practices
+I follow industry best practices and modern development methodologies:
 
-## Sharing Knowledge 🧠
+- **Test-Driven Development** - Writing comprehensive unit and integration tests
+- **Agile Methodology** - Working in iterative sprints with continuous feedback
+- **Code Reviews** - Ensuring code quality through peer review processes
+- **Documentation** - Maintaining clear technical documentation for all projects
 
-I've always liked **sharing my knowledge**. I often give small courses or mentoring to friends, students, or companies. When questions arise from them is when I learn the most, because sometimes these questions may seem simple and the answers are something we take for granted, but perhaps we don't fully understand why it is so. This pushes us to:
+## Continuous Learning & Growth 🌱
 
-- Deepen our understanding of concepts
-- Understand them better
-- Transform them into something that can be taught clearly and practically
+As a software engineer, I believe that continuous learning is essential in our rapidly evolving field. I stay up-to-date with the latest technologies and industry trends through:
 
-> Grounding knowledge is, for me, the bridge between knowing and teaching.
+### Technical Development
+- **Open Source Contributions** - Contributing to open-source projects to give back to the community
+- **Personal Projects** - Building side projects to experiment with new technologies
+- **Code Challenges** - Regularly solving algorithmic problems to sharpen problem-solving skills
+- **Tech Conferences** - Attending and occasionally speaking at technology conferences
 
-### Programming Mentoring 💻
+### Knowledge Sharing
+I'm passionate about sharing knowledge and helping others grow in their development journey:
 
-From 2021 to the present, I have closely guided more than 15 high school students in the programming career. Taking into account that they are starting their education, when they reach the point of understanding how web pages are made, they begin with the most basic:
+**Mentoring** - I mentor junior developers, helping them navigate their career paths and improve their technical skills. There's nothing more rewarding than seeing someone you've mentored succeed and grow.
 
-1. HTML
-2. CSS
-3. JavaScript (fundamentals)
+**Technical Writing** - I write technical articles and tutorials sharing my experiences and lessons learned from various projects.
 
-I have tried to teach them this in the way I would have liked to learn it at the time, obtaining excellent results, as concepts that weren't clear to them in school could be understood and applied following this different approach.
+**Code Reviews** - I provide detailed, constructive feedback during code reviews, focusing on not just finding issues but also explaining the "why" behind suggestions.
 
-### Educational Content on YouTube 📹
+## Current Focus & Future Goals 🎯
 
-Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@efeeledev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
+### Present Projects
+I'm currently working on several exciting projects that showcase the latest in web development:
 
-In 2024, I recorded some <a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">FrontEndMentor</a> challenges with better quality and published them on my channel. Currently, I share these resources with people I know who are interested in the topic and want to learn by watching how it's put into practice.
+**Modern Web Applications** - Building full-stack applications using React, Next.js, and TypeScript with a focus on performance and user experience.
 
-Although there are few videos, I really enjoyed the process. Due to time limitations, I haven't been able to record more, as they require a lot of dedication, but I'm sure that **I'll soon be publishing new content**.
+**API Architecture** - Designing microservices architectures that can scale efficiently and maintain high availability.
 
-### Some of My Videos 🎬
+### Future Aspirations
+Looking ahead, I'm excited about several emerging technologies and career directions:
 
-Here I share some of those videos I've created to help others learn web development. Each one addresses different challenges and techniques that can be useful for those who are starting in the frontend world.
+- **Machine Learning Integration** - Incorporating AI and ML capabilities into web applications
+- **Web3 & Blockchain** - Exploring decentralized application development
+- **System Architecture** - Moving towards solutions architect roles for large-scale systems
+- **Technical Leadership** - Leading development teams and mentoring the next generation of engineers
 
-<div className="grid grid-cols-2 grid-rows-1 gap-4">
-    <a href="https://www.youtube.com/watch?v=3c_I0z7zWA4" target="_blank" class="w-full aspect-video  rounded-lg overflow-hidden"> <img src="https://i.ytimg.com/vi/3c_I0z7zWA4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlyIf_1XClnSkZvhjsDHVO1fNpdw"> </a>
-     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/1q7YTgCgYEM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADBY3y6quLEnjFya4a1Goo6h5_2w"></img></a>
-    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/PYMEWsxiu5A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS2t0vxEufiWoxqwRRq8qIxRvICw"></img></a>
-    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/vbefk8HFEzc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaxgQ4OBeCsn-KMbJXaZK_wJh9GQ"></img></a>
-</div>
+## Development Philosophy 💡
 
-## What's Next... 🚀
+I believe that great software is built on strong foundations:
 
-In 2023, **Proyecto Tizayocan** was born, an initiative that seeks to apply technology to improve education, urban management, and connectivity in the municipality. This project is still in development, and we are gathering more collaborators to continue advancing.
+**User-Centric Design** - Every line of code I write starts with the end user in mind. Technology should serve people, not the other way around.
 
-At the end of 2024, after years working in the city council as **_Software Development Coordinator_**, and seeing the technological deficiencies of some municipalities, **StellarGov** emerges, a web components framework with Tailwind to help developers of small governments create fast and quality websites.
+**Clean Code Principles** - I follow Robert Martin's clean code principles, writing code that is easy to read, understand, and maintain.
 
-## A Bit More About Me ☕
+**Performance First** - I optimize for performance from the beginning, not as an afterthought. Fast applications create better user experiences.
 
-Today, in 2025, I continue working as **_Software Development Coordinator_** in my municipality, collaborating with my usual clients and launching projects. I love creating things, experimenting with new ideas, and organizing events. I live with the _maker_ spirit: learning, experimenting, and sometimes causing a bit of chaos. But well, everything is forgiven if there's music and coffee involved. ☕🎶
+**Security by Design** - Security considerations are integrated into every phase of development, from initial design to deployment.
 
-Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the day or for a creative session, I have the perfect recipe. I'm also pretty good at board games, so if you ever need a partner for a game night, I'm your person! 🎲
+**Continuous Improvement** - I believe in iterative development and continuous improvement, always looking for ways to make things better.
 
-I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
+## Personal Interests & Work-Life Balance ⚡
 
-## Let's Create Amazing Things! 🚀 
+### Beyond Coding
+While I'm passionate about software development, I believe in maintaining a healthy work-life balance:
+
+**Technology Exploration** - I enjoy exploring emerging technologies and experimenting with new programming languages and frameworks in my spare time.
+
+**Problem Solving** - I love algorithmic challenges and participate in coding competitions to keep my problem-solving skills sharp.
+
+**Reading & Learning** - I'm constantly reading technical books, articles, and research papers to stay updated with industry trends and best practices.
+
+**Community Engagement** - I actively participate in local developer meetups and contribute to open-source projects.
+
+### Personal Qualities
+What makes me effective as a software engineer:
+
+- **Attention to Detail** - I believe that small details make a big difference in software quality
+- **Collaborative Spirit** - I work well in team environments and enjoy knowledge sharing
+- **Adaptability** - I quickly adapt to new technologies and changing project requirements
+- **Communication Skills** - I can explain complex technical concepts in simple terms
+- **Growth Mindset** - I view challenges as opportunities to learn and improve
+
+## Let's Connect & Collaborate! 🤝
+
+I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology. Whether you're:
+
+- Looking for a software engineer for your next project
+- Interested in collaborating on open-source initiatives  
+- Seeking mentorship in your development journey
+- Want to discuss the latest trends in web development
+
+I'd love to hear from you! Feel free to reach out through any of my social media channels or professional networks.
+
+**Let's build something amazing together!** 🚀
+
+---
+
+*Thank you for taking the time to learn about my journey in software engineering. I'm excited about the future of technology and the role I can play in shaping it.* 
